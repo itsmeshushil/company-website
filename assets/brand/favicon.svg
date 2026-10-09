@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Lotus Media Emblem -->
+  <defs>
+    <linearGradient id="roseGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF3875"/>
+      <stop offset="100%" stop-color="#ED2E62"/>
+    </linearGradient>
+  </defs>
+  <!-- Background subtle badge for favicon visibility -->
+  <rect width="120" height="120" rx="28" fill="#FFFFFF"/>
+  <rect width="120" height="120" rx="28" stroke="#ED2E62" stroke-width="2" stroke-opacity="0.15"/>
+  
+  <!-- Outer Petals Form -->
+  <!-- Top petal curve -->
+  <path d="M60 14 C48 30 38 48 44 65 C48 76 56 86 60 94 C64 86 72 76 76 65 C82 48 72 30 60 14 Z" 
+        stroke="#ED2E62" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Horizontal Eye/Petal curves -->
+  <path d="M22 60 C38 42 82 42 98 60 C82 78 38 78 22 60 Z" 
+        stroke="#ED2E62" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        
+  <!-- Secondary inner petal accent -->
+  <path d="M34 52 C48 38 72 38 86 52" 
+        stroke="#ED2E62" stroke-width="5" stroke-linecap="round" fill="none"/>
+        
+  <!-- Center Play Button Icon -->
+  <polygon points="54,49 54,71 73,60" fill="#ED2E62"/>
+</svg>
